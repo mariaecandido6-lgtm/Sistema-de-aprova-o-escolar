@@ -159,13 +159,10 @@ if (media === 100) {
 index.js
 ```
 
-2. Abra o terminal na pasta do projeto.
-
-3. Execute o comando:
-
 ```bash
 node index.js
 ```
+
 # Git - Fluxo Básico
 
 ```bash
@@ -173,7 +170,7 @@ node index.js
 git config --global user.name "Seu Nome"
 git config --global user.email "seu@email.com"
 
-# Inicializar repositório
+# Inicializar repositorio
 git init
 
 # Alterar nome da branch padrão para main
